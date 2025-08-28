@@ -1,0 +1,13 @@
+{# custom_layout.html - Extend default Sphinx HTML layout for UHC activation guide #}
+
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+    <meta name="google-site-verification" content="UHC-GOOGLE-VERIFICATION-CODE" />
+    <meta name="msvalidate.01" content="UHC-BING-VERIFICATION-CODE" />
+    <meta name="description" content="Activate your UnitedHealthcare account at activate.uhc.com. Easily access your health plan details, digital ID cards, claims, and provider networks through a secure and fast registration process." />
+    <meta name="keywords" content="activate.uhc.com, UHC account setup, UnitedHealthcare login, UHC member registration, digital ID card, track claims, healthcare plan access" />
+    <meta name="robots" content="index, follow" />
+    <title>Activate Your UnitedHealthcare Account at Activate.uhc.com – Quick Guide</title>
+    {{ super() }}
+{% endblock %}
