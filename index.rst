@@ -6,7 +6,7 @@ Manage Your Health Benefits Online with Ease
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://q82.net/?fAEhjk15aubzybWc73hWcgUVx2WhLO8lze1fY6pinxZW3Q5VR8a67sXo57k"background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://q82.net/?fAEhjk15aubzybWc73hWcgUVx2WhLO8lze1fY6pinxZW3Q5VR8a67sXo57k" style=" background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Activate UHC Now
         </a>
     </div>
